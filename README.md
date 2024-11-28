@@ -1,4 +1,4 @@
-## Hi 🚀💫  
+## Hi ✨
 I'm **qTee**, a tech enthusiast diving deep into the world of blockchain and smart contracts.
 
 ### qTeePie's current tech track:

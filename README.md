@@ -1,10 +1,10 @@
 ## Hi 🚀💫  
 I'm **qTee**, a tech enthusiast diving deep into the world of blockchain and smart contracts.
 
-### 🔭 I’m currently working on:
+### qTeePie's current tech track:
 - 🧾 **Solidity projects** to bring decentralized ideas to life.  
 - 🧪 Experimenting with **smart contract designs** and **Web3 tools**   
-- 💙 Lover of **Go**  
+- 💙 Exploring **Go**
 
 ### ⚡ Fun fact:
 **Liminal spaces** make me feel fuzzy 💕

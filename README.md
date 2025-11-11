@@ -6,5 +6,5 @@ I'm **Iz CM**, a Jr. fullstack developer with a keen interest in web3 🔗
 - 🔢 Diving into discrete math for **cryptography**. 
 - 🦀 Learning **Rust** for ZK.
 
-### ⚡ About me:
+### About me:
 Curious mind. Steady hands.

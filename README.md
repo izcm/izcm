@@ -1,5 +1,5 @@
 ## Hi 
-I'm **Iz CM**, a Junior Web3 Backend Developer — TypeScript • Node.js • Solidity.
+I'm **Iz CM**, a Junior Web3 Backend Developer — TypeScript • Node.js • Solidity.  
 Currently building a minimal end-to-end NFT marketplace (contracts &rarr; backend indexer &rarr; frontend).  
 
 ### { } Mains:

@@ -1,5 +1,5 @@
 ## Hi 
-I'm **Iz CM**, a jr. Web3 fullstack (leaning backend) developer — Solidity • TypeScript • Node.js
+I'm **Iz CM**, a jr. Web3 fullstack (leaning backend) developer — Solidity • TypeScript • Node.js  
 Currently building a minimal end-to-end NFT marketplace (contracts &rarr; event-consuming indexer &rarr; frontend).  
 
 ### { } Mains:

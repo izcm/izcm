@@ -1,11 +1,12 @@
 ## Hi 
-I'm **Iz CM**, a Junior Web3 Backend Developer — TypeScript • Node.js • Solidity.  
-Currently building a minimal end-to-end NFT marketplace (contracts &rarr; backend indexer &rarr; frontend).  
+I'm **Iz CM**, a jr. Web3 fullstack (leaning backend) developer — Solidity • TypeScript • Node.js
+Currently building a minimal end-to-end NFT marketplace (contracts &rarr; event-consuming indexer &rarr; frontend).  
 
 ### { } Mains:
 - 🧾 **Solidity + Yul** — studying the EVM internals and writing clean, secure contracts
-- 🔷 **Typescript Frontends** using React / Next.js with contract and wallet integration  
-- 🟢 **Indexer** — on-chain &rarr; off-chain pipelines with **NodeJS + MongoDB**
+- 💻 **Foundry scripting** — creating forked-chain dev environments with custom on-chain state and simulated history
+- 🔷 **TypeScript frontends** — wiring React / Next.js apps to smart contracts and backend APIs
+- 🟢 **Indexer** — on-chain &rarr; off-chain pipelines with **Node.js + MongoDB**
 - 🦀 **Rust** (early stage) — exploring crypto math
 
 ### About me:

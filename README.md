@@ -1,6 +1,6 @@
 ## Hi 
 I'm **Iz CM**, a jr. Web3 fullstack developer — Solidity • TypeScript • Node.js  
-Currently building `d | mrkt`, a minimal end-to-end NFT marketplace (contracts &rarr; indexer &rarr; next.js app).  
+Currently building `dmrkt`, a minimal end-to-end NFT marketplace (contracts &rarr; indexer &rarr; next.js app).  
 
 ### { } Mains:
 - 🧾 **Solidity** — studying the EVM internals and writing clean, secure contracts

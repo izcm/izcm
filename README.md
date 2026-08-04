@@ -7,9 +7,9 @@ Currently getting deeper into blockchain networking:
 
 ### { } Mains:
 - **Solidity** — studying the EVM internals and writing clean, secure contracts
-- **Foundry scripting** — how to optimize DEV environment through local forks and simulated history
-- **TypeScript frontends** — wiring React / Next.js apps to smart contracts and backend APIs
+- **Simulations** — Simulate chain activity through Foundry and Viem
 - **Indexing** — on-chain &rarr; off-chain pipelines with **Node.js + MongoDB**
+- **User-facing Web3 apps** — wiring React / Next.js apps to smart contracts and backend services
 
 ### About me:
 Curious mind. Steady hands.

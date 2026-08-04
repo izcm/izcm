@@ -18,5 +18,5 @@ Curious mind. Steady hands.
 ---
 
 <sub>
-Profile photo by [Einar Hugnes](https://naturfotoeinarhugnes.blogspot.com)
+Profile photo by <a href="https://naturfotoeinarhugnes.blogspot.com">Einar Hugnes</a>
 </sub>

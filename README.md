@@ -14,3 +14,6 @@ Currently getting deeper into blockchain networking:
 
 ### About me:
 Curious mind. Steady hands.
+
+Photo credit: Einar Hugnes
+https://naturfotoeinarhugnes.blogspot.com

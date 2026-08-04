@@ -1,6 +1,9 @@
 ## Hi 
 I'm **Iz CM**, a Web3 fullstack developer — Solidity • TypeScript • Node.js  
-Currently building `dmrkt`, a minimal end-to-end NFT marketplace (contracts &rarr; indexer &rarr; next.js app).  
+Been building `dmrkt`, a marketplace simulation and end-to-end NFT marketplace; check it out at [dmrkt.izblocks](https://dmrkt.izblocks.com).
+Currently getting deeper into blockchain networking:
+  - Understanding MEV by building a TypeScript mempool-inspector.
+  - Learning Rust by implementing a minimal BitTorrent client.
 
 ### { } Mains:
 - 🧾 **Solidity** — studying the EVM internals and writing clean, secure contracts
